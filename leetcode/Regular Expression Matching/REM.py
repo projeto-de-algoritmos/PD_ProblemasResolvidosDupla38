@@ -1,4 +1,5 @@
 class Solution(object):
+    
     def isMatch(self, s, p):
         dp = [[False] * (len(s) + 1) for _ in range(len(p) + 1)]
         dp[0][0] = True
