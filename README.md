@@ -3,7 +3,7 @@
 
  
 
-# Resolução de problemas em juízes eletrônicos sobre grafos.
+# Resolução de problemas em juízes eletrônicos sobre Programação Dinâmica.
 
 **Número da Lista**: 38<br>
 **Conteúdo da Disciplina**: PD<br>
